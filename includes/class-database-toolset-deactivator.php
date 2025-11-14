@@ -2,7 +2,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Database_Toolset
@@ -15,7 +15,7 @@
  * @since 1.0.0
  * @package Database_Toolset
  * @subpackage Database_Toolset/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Database_Toolset_Deactivator
 {

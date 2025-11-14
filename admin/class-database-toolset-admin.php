@@ -2,7 +2,7 @@
 /**
  * The admin-specific functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Database_Toolset
  * @subpackage Database_Toolset/admin
@@ -12,7 +12,7 @@
  * Class `Database_Toolset_Admin`
  * @package Database_Toolset
  * @subpackage Database_Toolset/admin
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Database_Toolset_Admin
 {

@@ -3,8 +3,8 @@
  * Class Database Toolset Backup
  * The backup-specific functionality of the plugin
  *
- * @author NeosLab <contact@neoslab.com>
- * @link https://neoslab.com
+ * @author Sqoove <support@sqoove.com>
+ * @link https://sqoove.com
  * @version 1.4.8
  * @package Database_Toolset
 */

@@ -2,7 +2,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Database_Toolset
@@ -13,7 +13,7 @@
  * Class `Database_Toolset_Loader`
  * @package Database_Toolset
  * @subpackage Database_Toolset/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Database_Toolset_Loader
 {

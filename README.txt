@@ -1,10 +1,10 @@
 === Database Toolset ===
-Contributors: NeosLab
+Contributors: Sqoove
 Tags: clean, cleaner, cleanup, database, mysql
 Requires at least: 4.9
 Tested up to: 6.4.3
 Stable tag: 1.8.4
-License URI: https://raw.githubusercontent.com/neoslabx/database-toolset/refs/heads/main/LICENSE
+License URI: https://raw.githubusercontent.com/sqoove/database-toolset/refs/heads/main/LICENSE
 
 Database Toolset can help you to keep your database clean by deleting all unneeded entries such as "transient", "revision", "auto draft" and more.
 
